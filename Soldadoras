@@ -1,15 +1,7 @@
 <table class="default">
 <tbody>
 <tr>
-<th style="max-width: auto;" data-mce-style="max-width: auto;"><strong>Tipo de Soldadora:</strong></th>
-<td style="max-width: auto;" data-mce-style="max-width: auto;"></td>
-</tr>
-<tr>
-<th style="max-width: auto;" data-mce-style="max-width: auto;">Amperaje Mínimo:<br></th>
-<td style="max-width: auto;" data-mce-style="max-width: auto;"></td>
-</tr>
-<tr>
-<th style="max-width: auto;" data-mce-style="max-width: auto;">Amperaje Máximo:<br></th>
+<th style="max-width: auto;" data-mce-style="max-width: auto;"><strong>Potencia:</strong></th>
 <td style="max-width: auto;" data-mce-style="max-width: auto;"></td>
 </tr>
 <tr>
@@ -17,7 +9,7 @@
 <td style="max-width: auto;" data-mce-style="max-width: auto;"></td>
 </tr>
 <tr>
-<th style="max-width: auto;" data-mce-style="max-width: auto;">Voltaje:<br></th>
+<th style="max-width: auto;" data-mce-style="max-width: auto;">Voltaje:</th>
 <td style="max-width: auto;" data-mce-style="max-width: auto;"></td>
 </tr>
 <tr>
@@ -36,29 +28,12 @@
 <th style="max-width: auto;" data-mce-style="max-width: auto;">Recomendación de Electrodos:<br></th>
 <td style="max-width: auto;" data-mce-style="max-width: auto;"></td>
 </tr>
-<tr></tr>
 <tr>
 <th style="max-width: auto;" data-mce-style="max-width: auto;">Recomendación de Microalambre:<br></th>
 <td style="max-width: auto;" data-mce-style="max-width: auto;"></td>
 </tr>
-<tr></tr>
-<tr>
-<th style="max-width: auto;" data-mce-style="max-width: auto;">Ciclo de Trabajo:<br></th>
-<td style="max-width: auto;" data-mce-style="max-width: auto;"></td>
-</tr>
-<tr></tr>
-<tr>
-<th style="max-width: auto;" data-mce-style="max-width: auto;">Peso de Producto:<br></th>
-<td style="max-width: auto;" data-mce-style="max-width: auto;"></td>
-</tr>
-<tr></tr>
 <tr>
 <th style="max-width: auto;" data-mce-style="max-width: auto;">Uso:<br></th>
-<td style="max-width: auto;" data-mce-style="max-width: auto;"></td>
-</tr>
-<tr></tr>
-<tr>
-<th style="max-width: auto;" data-mce-style="max-width: auto;">Largo del Cable:<br></th>
 <td style="max-width: auto;" data-mce-style="max-width: auto;"></td>
 </tr>
 <tr>
