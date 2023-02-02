@@ -1,53 +1,19 @@
 <table class="default">
 <tbody>
 <tr>
-<th style="max-width: auto;" data-mce-style="max-width: auto;"><strong>Modelo:</strong></th>
+<th style="max-width: auto;" data-mce-style="max-width: auto;"><strong>Tipo de Cargador de Baterias:</strong></th>
 <td style="max-width: auto;" data-mce-style="max-width: auto;"></td>
-</tr>
-<tr>
-<th style="max-width: auto;" data-mce-style="max-width: auto;">Tipo de Baterías:<br></th>
-<td style="max-width: auto;" data-mce-style="max-width: auto;"></td>
-</tr>
-<tr>
-<th style="max-width: auto;" data-mce-style="max-width: auto;">Capacidad de Batería:<br></th>
-<td style="max-width: auto;" data-mce-style="max-width: auto;"></td>
-</tr>
-<tr>
-<th style="max-width: auto;" data-mce-style="max-width: auto;">Clasificación:<br></th>
-<td style="max-width: auto;" data-mce-style="max-width: auto;"></td>
-</tr>
-<tr>
-<th style="max-width: auto;" data-mce-style="max-width: auto;">Indicador de Carga:<br></th>
-<td style="max-width: auto;" data-mce-style="max-width: auto;"></td>
-</tr>
-<tr>
-<th style="max-width: auto;" data-mce-style="max-width: auto;">Tipo de Batería:<br></th>
-<td style="max-width: auto;" data-mce-style="max-width: auto;"></td>
-</tr>
-<tr>
-<th style="max-width: auto;background-color: #333e48;
-color: white;
-" data-mce-style="max-width: auto;">Garantía:<br></th>
-<td style="max-width: auto;" data-mce-style="max-width: auto;"><img height="81" width="81" alt="" src="https://cdn.shopify.com/s/files/1/0501/4791/7981/files/1_0d4a854f-c1fc-452a-acd3-a21474c664fe_480x480.png?v=1649869586" data-mce-src="https://cdn.shopify.com/s/files/1/0501/4791/7981/files/1_0d4a854f-c1fc-452a-acd3-a21474c664fe_480x480.png?v=1649869586"><span>&nbsp; &nbsp; Las garantías en Ferrekuper son aplicables directamente con el fabricante.</span></td>
-</tr>
-<tr>
-<th style="max-width: auto;" data-mce-style="max-width: auto;">Modelo:<br></th>
-<td style="max-width: auto;" data-mce-style="max-width: auto;"></td>
-</tr>
-<tr>
-<th style="max-width: auto;" data-mce-style="max-width: auto;">Tipo de Cargador de Baterías:<br></th>
-<td style="max-width: auto;" data-mce-style="max-width: auto;"><br></td>
 </tr>
 <tr>
 <th style="max-width: auto;" data-mce-style="max-width: auto;">Voltaje:<br></th>
-<td style="max-width: auto;" data-mce-style="max-width: auto;"><br></td>
+<td style="max-width: auto;" data-mce-style="max-width: auto;"></td>
 </tr>
 <tr>
-<th style="max-width: auto;" data-mce-style="max-width: auto;">Fuente de Alimentación:<br></th>
-<td style="max-width: auto;" data-mce-style="max-width: auto;"><br></td>
+<th style="max-width: auto;" data-mce-style="max-width: auto;">Fuente de Alimentacion:<br></th>
+<td style="max-width: auto;" data-mce-style="max-width: auto;"></td>
 </tr>
 <tr>
-<th style="max-width: auto;" data-mce-style="max-width: auto;">Clasificación:<br></th>
+<th style="max-width: auto;" data-mce-style="max-width: auto;">Clasificacion:<br></th>
 <td style="max-width: auto;" data-mce-style="max-width: auto;"></td>
 </tr>
 <tr>
@@ -55,10 +21,22 @@ color: white;
 <td style="max-width: auto;" data-mce-style="max-width: auto;"></td>
 </tr>
 <tr>
+<th style="max-width: auto;" data-mce-style="max-width: auto;">Led indicador de Sobrecalentamiento y Fallas:<br></th>
+<td style="max-width: auto;" data-mce-style="max-width: auto;"></td>
+</tr>
+<tr>
+<th style="max-width: auto;" data-mce-style="max-width: auto;">Peso:<br></th>
+<td style="max-width: auto;" data-mce-style="max-width: auto;"></td>
+</tr>
+<tr>
+<th style="max-width: auto;" data-mce-style="max-width: auto;">Garantía:</th>
+<td style="max-width: auto;" data-mce-style="max-width: auto;"><img src="https://cdn.shopify.com/s/files/1/0501/4791/7981/files/1_0d4a854f-c1fc-452a-acd3-a21474c664fe_480x480.png?v=1649869586" alt="" width="81" height="81" data-mce-src="https://cdn.shopify.com/s/files/1/0501/4791/7981/files/1_0d4a854f-c1fc-452a-acd3-a21474c664fe_480x480.png?v=1649869586">&nbsp; &nbsp; Las garantías en Ferrekuper son aplicables directamente con el fabricante.</td>
+</tr>
+<tr>
 <th style="max-width: auto;background-color: #333e48;
 color: white;
-" data-mce-style="max-width: auto;">Garantía:</th>
-<td style="max-width: auto;" data-mce-style="max-width: auto;"><img height="81" width="81" alt="" src="https://cdn.shopify.com/s/files/1/0501/4791/7981/files/1_0d4a854f-c1fc-452a-acd3-a21474c664fe_480x480.png?v=1649869586" data-mce-src="https://cdn.shopify.com/s/files/1/0501/4791/7981/files/1_0d4a854f-c1fc-452a-acd3-a21474c664fe_480x480.png?v=1649869586"><span>&nbsp; &nbsp; Las garantías en Ferrekuper son aplicables directamente con el fabricante.</span></td>
+" data-mce-style="max-width: auto;">Qué Incluye:</th>
+<td style="max-width: auto;" data-mce-style="max-width: auto;"><br></td>
 </tr>
 </tbody>
 </table>
