@@ -1,11 +1,19 @@
 <table class="default">
 <tbody>
 <tr>
-<th style="max-width: auto;" data-mce-style="max-width: auto;">Medida de Broca:</th>
+<th style="max-width: auto;" data-mce-style="max-width: auto;">Tipo de Puntas:<br></th>
 <td style="max-width: auto;" data-mce-style="max-width: auto;"></td>
 </tr>
 <tr>
-<th style="max-width: auto;" data-mce-style="max-width: auto;">Medida de Punta:<br></th>
+<th style="max-width: auto;" data-mce-style="max-width: auto;">Largo:<br></th>
+<td style="max-width: auto;" data-mce-style="max-width: auto;"></td>
+</tr>
+<tr>
+<th style="max-width: auto;" data-mce-style="max-width: auto;">Uso:<br></th>
+<td style="max-width: auto;" data-mce-style="max-width: auto;"></td>
+</tr>
+<tr>
+<th style="max-width: auto;" data-mce-style="max-width: auto;">Zanco:<br></th>
 <td style="max-width: auto;" data-mce-style="max-width: auto;"></td>
 </tr>
 <tr>
